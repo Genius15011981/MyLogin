@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">+1</string-array>
+    <color name="black">#FF000000</color>
+    <color name="blcolor">#090707</color>
+    <color name="grey">#CFCFCF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="_1_of_3">1 of 3</string>
+    <string name="_2_of_3">2 of 3</string>
+    <string name="_3_of_3">3 of 3</string>
+    <string name="address">Address</string>
+    <string name="app_name">Login_UI new</string>
+    <string name="back_arrow">back_arrow</string>
+    <string name="birthday">Birthday</string>
+    <string name="btn_next">Next</string>
+    <string name="c_acc">Create account</string>
+    <string name="cr_acc">Create\taccount</string>
+    <string name="create_account">Create\taccount</string>
+    <string name="create_apass">Create a Password</string>
+    <string name="dd_mm_yyyy">DD\/MM\/YYYY</string>
+    <string name="defcolor">#FF000000</string>
+    <string name="didn_t">Didn\'t Receive OTP?</string>
+    <string name="email_address">Email\taddress</string>
+    <string name="enter_pass">Enter\tyour\tpassword</string>
+    <string name="enter_your_email">Enter\tyour\temail</string>
+    <string name="enter_your_location">Enter Your Location</string>
+    <string name="forg_pass">Forgotten\tpassword?</string>
+    <string name="h_acc">Dont\thave\taccount?</string>
+    <string name="hi_wellcome">Hi\!\tWellcome</string>
+    <string name="label">Label</string>
+    <string name="log_btn_txt">Log\tin</string>
+    <string name="log_in">Log\in</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="p_email">Please enter the code we sent you to email</string>
+    <string name="pass_text">Password</string>
+    <string name="phone_tno">Phone No.</string>
+    <string name="privace">By signing up, you agree to our Terms of Service and Privacy \nPolicy</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="show_pass">Show Password</string>
+    <string name="sign_up">Sign\tup</string>
+    <string name="sign_with">------------Or\tsign\tin\twith-----------</string>
+    <string name="user_pass">Password</string>
+    <string name="verify">Verify</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="what_s">What\'s your email?</string>
+    <string name="your_name">Your Name</string>
+    <style name="Base.Theme.MyLogin" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyLogin" parent="Base.Theme.MyLogin"/>
+</resources>

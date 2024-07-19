@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\layout_activity_mail.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\layout\\activity_mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\drawable_et_style.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\drawable\\et_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\drawable_back_arr.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\drawable\\back_arr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\drawable_google.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\drawable\\google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\drawable_apple.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\drawable\\apple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\drawable_facebook.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\drawable\\facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\layout_activity_verotp.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\layout\\activity_verotp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mylogin.app-debug-31:/layout_activity_verotp.xml.flat",
+        "source": "com.example.mylogin.app-main-33:/layout/activity_verotp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\layout_actiivity_pass.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\layout\\actiivity_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\layout_actiiviity_pass.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\layout\\actiiviity_pass.xml"
+    },
+    {
+        "merged": "com.example.mylogin.app-debug-31:/layout_activity_cr_acc.xml.flat",
+        "source": "com.example.mylogin.app-main-33:/layout/activity_cr_acc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\layout_activity_cr_acc.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\layout\\activity_cr_acc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Genius\\.gradle\\daemon\\8.6\\com.example.mylogin.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

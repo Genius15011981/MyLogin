@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_7_pro" />
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/actiivity_pass.xml">
+        <config>
+          <theme>@style/Theme.MyLogin</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cr_acc.xml">
+        <config>
+          <theme>@style/Theme.MyLogin</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_mail.xml">
+        <config>
+          <theme>@style/Theme.MyLogin</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.MyLogin</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_verotp.xml">
+        <config>
+          <theme>@style/Theme.MyLogin</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="505f9d2a-992b-418d-8577-989268c69320" name="Changes" comment="Linked activity and layouts">
+      <change afterPath="$PROJECT_DIR$/Login_UInew/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/androidTest/java/com/example/login_uinew/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/apple-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/apple_btn-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/facebook_btn-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/google_btn-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-anydpi-v26/apple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-anydpi-v26/apple_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-anydpi-v26/apple_btn_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-anydpi-v26/apple_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-anydpi-v26/facebook_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-anydpi-v26/facebook_btn_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-anydpi-v26/google_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-anydpi-v26/google_btn_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-hdpi/apple.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-hdpi/apple_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-hdpi/apple_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-hdpi/apple_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-hdpi/facebook_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-hdpi/facebook_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-hdpi/google_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-hdpi/google_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-mdpi/apple.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-mdpi/apple_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-mdpi/apple_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-mdpi/apple_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-mdpi/facebook_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-mdpi/facebook_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-mdpi/google_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-mdpi/google_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xhdpi/apple.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xhdpi/apple_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xhdpi/apple_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xhdpi/apple_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xhdpi/facebook_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xhdpi/facebook_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xhdpi/google_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xhdpi/google_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxhdpi/apple.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxhdpi/apple_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxhdpi/apple_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxhdpi/apple_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxhdpi/facebook_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxhdpi/facebook_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxhdpi/google_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxhdpi/google_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxxhdpi/apple.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxxhdpi/apple_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxxhdpi/apple_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxxhdpi/apple_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxxhdpi/facebook_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxxhdpi/facebook_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxxhdpi/google_btn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxxhdpi/google_btn_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/values-night/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/app/src/test/java/com/example/login_uinew/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_UInew/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/java/com/example/myapplication/ForthActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/java/com/example/myapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/java/com/example/myapplication/SecondActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/java/com/example/myapplication/ThirdActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/layout/activity_mail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/layout/activity_pass.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/layout/activity_verify.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/layout/creat_acc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/values/apple_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/values/apple_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/values/facebook_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/values/google_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/values/planets_array.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLogin/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mylogin/SecondActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/apple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/back_arr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/facebook.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/google.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\Genius\.android\avd\Medium_Phone_API_30.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jRzuwEzZxSG67LiwGCsHHAFz8b" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Login-UI"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Android projects\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="My_Login.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="505f9d2a-992b-418d-8577-989268c69320" name="Changes" comment="" />
+      <created>1721364904211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721364904211</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Linked activity and layouts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked activity and layouts" />
+  </component>
+</project>

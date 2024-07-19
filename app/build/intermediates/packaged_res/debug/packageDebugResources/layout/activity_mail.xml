@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:layout_marginStart="47dp"
+        android:layout_marginTop="91dp"
+        android:onClick="onBackPressed"
+        android:contentDescription="@string/back_arrow"
+        android:src="@drawable/back_arr" />
+    <TextView
+        android:id="@+id/s_up"
+        android:layout_width="match_parent"
+        android:layout_height="18dp"
+        android:layout_marginStart="65dp"
+        android:layout_marginTop="91dp"
+        android:text="@string/sign_up"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="136dp"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/what_s"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#CFCFCF"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="186dp"
+        android:autofillHints="golibjonodinaev@gmail.com"
+        android:hint="@string/email_address"
+        android:inputType="textEmailAddress"
+        android:paddingTop="10dp"
+        android:textColor="#CFCFCF"
+        android:textSize="22sp"/>
+    <TextView
+        android:id="@+id/reg_step"
+        android:layout_width="35dp"
+        android:layout_height="16dp"
+        android:layout_marginStart="324dp"
+        android:layout_marginTop="355dp"
+        android:fontFamily="sans-serif"
+        android:textSize="13sp"
+        android:text="@string/_1_of_3"
+        android:textColor="@color/black"/>
+
+    <ProgressBar
+        android:id="@+id/p_bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="327dp"
+        android:layout_height="8dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="375dp"
+        android:background="#CFCFCF"
+        android:backgroundTint="#FFFFFF"
+        android:progressTint="#4CAF50"
+        android:max="100"
+        android:progress="33" />
+    <Button
+        android:layout_width="327dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="415dp"
+        android:layout_marginStart="32dp"
+        android:backgroundTint="#41C485"
+        android:text="@string/btn_next"
+        android:onClick="onClick"
+        android:textStyle="bold" />
+
+</FrameLayout>

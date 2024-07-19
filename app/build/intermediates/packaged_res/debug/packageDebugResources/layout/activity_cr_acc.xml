@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="18dp"
+        android:layout_height="13dp"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="83dp"
+        android:onClick="onBackPressed"
+        android:contentDescription="@string/back_arrow"
+        android:src="@drawable/back_arr" />
+    <TextView
+        android:layout_width="214dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="101sp"
+        android:layout_marginStart="88dp"
+        android:text="@string/create_account"
+        android:fontFamily="sans-serif-medium"
+        style="bold|normal"
+        android:textFontWeight="600"
+        android:textSize="28sp"
+        android:lineHeight="33.89dp"
+        android:letterSpacing="0.05"
+        android:textAlignment="center"
+        android:textColor="#14304A"/>
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="227dp"
+        android:layout_marginLeft="85dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="143dp"
+        android:layout_marginStart="85dp"
+        android:text="@string/c_acc"
+        android:fontFamily="sans-serif-light"
+        android:textFontWeight="500"
+        android:textSize="12sp"
+        android:lineHeight="18dp"
+        android:letterSpacing="0.05"
+        android:textAlignment="center"
+        android:textColor="#C4C4C4"
+        tools:ignore="RtlHardcoded" />
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/fname"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="327dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="208dp"
+
+        android:hint="@string/name">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/tv2"
+            android:layout_width="327dp"
+            android:layout_height="56dp"
+            android:text="@string/your_name"
+            android:inputType="textCapWords"
+            android:textColor="#CFCFCF"
+            android:onClick="namechange"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/email"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="327dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="298dp"
+        android:layout_marginStart="37dp"
+        android:hint="@string/birthday"
+        android:onClick="datechange">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/birthday"
+            android:layout_width="327dp"
+            android:layout_height="56dp"
+            android:inputType="date"
+            android:src="@drawable/back_arr"
+            android:text="@string/dd_mm_yyyy"
+            android:textColor="#CFCFCF" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/tv3"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="327dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="377dp"
+        android:layout_marginStart="37dp"
+        android:hint="@string/address">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/tv4"
+            android:layout_width="327dp"
+            android:layout_height="56dp"
+            android:inputType="text"
+            android:pointerIcon="arrow"
+            android:text="@string/enter_your_location"
+           android:textColor="#CFCFCF"
+            android:onClick="locationchange"/>
+    </com.google.android.material.textfield.TextInputLayout>
+    <Spinner
+        android:id="@+id/my_spinner"
+        android:layout_marginTop="463dp"
+        android:layout_marginStart="37dp"
+        android:entries="@array/planets_array"
+        android:prompt="@array/planets_array"
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        style="@style/ShapeAppearanceOverlay.Material3.Button"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/phone_n"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="267dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="463dp"
+        android:hint="@string/phone_tno">
+
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/pass_inp"
+            style="@style/CardView.Light"
+            android:layout_width="300dp"
+            android:layout_height="56dp"
+            android:inputType="number|phone"
+            android:pointerIcon="arrow"
+            android:textColor="#CFCFCF" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/tv5"
+        android:layout_width="327dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="548dp"
+        android:layout_marginStart="32dp"
+        android:onClick="onClick"
+        android:text="@string/next"
+        android:textColor="#ffffff"
+        android:backgroundTint="#41C485"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_sign"
+        android:layout_width="313dp"
+        android:layout_height="18dp"
+        android:layout_marginStart="33.5dp"
+        android:layout_marginTop="656dp"
+        android:text="@string/sign_with"
+        android:textAlignment="center"
+        android:textColor="#C4C4C4"
+        android:textColorLink="#009688"
+        android:textFontWeight="400"
+        android:textSize="12sp" />
+    <TableLayout
+        android:layout_marginTop="701dp"
+        android:layout_marginStart="61dp"
+        android:layout_width="263dp"
+        android:layout_height="82dp"
+        android:orientation="horizontal">
+        <TableRow tools:ignore="UselessParent">
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+
+                android:layout_width="72sp"
+                android:layout_height="72sp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:id="@+id/btn_apple"
+                android:src="@drawable/apple"
+                android:scaleType="fitStart">
+            </com.google.android.material.imageview.ShapeableImageView>
+            <com.google.android.material.imageview.ShapeableImageView
+                android:layout_width="72sp"
+                android:layout_height="72sp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:id="@+id/btn_google"
+                android:src="@drawable/google"
+                android:scaleType="fitStart">
+            </com.google.android.material.imageview.ShapeableImageView>
+            <com.google.android.material.imageview.ShapeableImageView
+                android:layout_width="72sp"
+                android:layout_height="72sp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:id="@+id/facebook"
+                android:src="@drawable/facebook"
+                android:scaleType="fitStart">
+            </com.google.android.material.imageview.ShapeableImageView>
+        </TableRow>
+    </TableLayout>
+</FrameLayout>
+
+
+
